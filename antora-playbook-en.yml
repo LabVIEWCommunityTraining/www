@@ -30,6 +30,9 @@ content:
   - url: https://github.com/LabVIEWCommunityTraining/labview-events-course
     branches: [v*.*]
     start_paths: www/en
+  - url: https://github.com/LabVIEWCommunityTraining/Simple-Grove-Examples
+    branches: [v*.*]
+    start_paths: www/en
 asciidoc:
   attributes:
     page-component-order: 'ROOT, course-labview, course-template'
